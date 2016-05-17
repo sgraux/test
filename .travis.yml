@@ -6,3 +6,4 @@ notifications:
 script:
   - pwd
   - ls -l
+  - javac src/main/BonjourTest.java
